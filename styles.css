@@ -1,0 +1,248 @@
+.navbar-logo {
+    height: 50px;
+    width: 70px;
+}
+
+#navitem1 {
+    color: #323f4b;
+    font-family: 'roboto';
+}
+
+#navitem2 {
+    color: #323f4b;
+    font-family: 'roboto';
+}
+
+#navitem3 {
+    color: #323f4b;
+    font-family: 'roboto';
+}
+
+#navitem4 {
+    color: #323f4b;
+    font-family: 'roboto';
+}
+
+.banner-section-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/photorealistic-lohri-festival-celebration-with-traditional-food_23-2151098302.jpg?t=st=1708281453~exp=1708285053~hmac=a7ce3dab8d36c8c06ea74b5186b2410ae85ad31fe3d51bcb58c9364f2381d2d3&w=1380");
+    height:85vh;
+    background-size: cover;
+    font-family: 'roboto';
+}
+
+.text-container {
+    color: #f5f7fa;
+}
+
+.banner-section-heading {
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.banner-section-descript {
+    font-size: 21px;
+}
+
+.button {
+    width: 130px;
+    padding: 9px 0px 9px 0px;
+    border-width: 0;
+    border-radius: 7px;
+    color: white;
+    background-image: linear-gradient(#d0b200,#a58d00);
+    margin-right: 16px;
+    font-weight: 500;
+}
+
+.spl-button {
+    width: 130px;
+    padding: 9px 0px 9px 0px;
+    border-radius: 7px;
+    color: #d0b200;
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #d0b200;
+    font-weight: 500;
+}
+
+.wcu-section-container {
+    background-color: #f9fbfe;
+    font-family: 'roboto';
+    padding-top: 70px; 
+}
+
+.wcu-heading {
+    color: #183b56;
+
+}
+
+.wcu-descript {
+    color: #5a7184;
+    font-size: 21px;
+}
+
+.wcu-card {
+    background-color: white;
+    text-align: center;
+    border-width:2px;
+    border-style: solid;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-image {
+    height: 90px;
+    width: 90px;
+}
+
+.wcu-card-heading {
+    color: #323f4b;
+    font-weight: 500;
+    padding-top: 16px;
+}
+
+.wcu-card-descript {
+    color: #7b8794;
+    font-size: 21px;
+}
+
+.offers {
+    font-style: italic;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.explore-menu-section {
+    background-color: white;
+    font-family: 'roboto';
+    padding-top: 70px;
+}
+
+.explore-menu-heading {
+    color: #183b56;
+}
+
+.explore-menu-card-image {
+    border-radius: 16px;
+}
+
+.explore-menu-card {
+    border-radius: 16px;
+}
+
+.explore-menu-card-heading {
+    color: #323f4b;
+    padding-top: 32px;
+    font-size: 33px;
+    font-weight: 400;
+}
+
+.icon {
+    color: #d0b200;
+}
+
+.icon-inline {
+    font-size: 21px;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+    font-family: "Roboto";
+}
+
+.healthy-food-section-heading {
+    color: #183b56;
+    font-size: 33px;
+    font-weight: 700;
+}
+
+.healthy-food-section-paragraph {
+    color: #5a7184;
+    font-size: 21px;
+}
+
+.healthy-food-section-image {
+    width: 270px;
+}
+
+.delivery-payment-section {
+    background-color: white;
+    font-family: 'roboto';
+    padding-top: 70px;
+}
+
+.delivery-payment-image {
+    width: 270px;
+}
+
+.deliver-payment-card-image {
+    width: 84px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db,#fae38c);
+    font-family: 'roboto';
+}
+
+.thanking-customers-section-heading {
+    font-size: 33px;
+    font-weight: 700;
+    color: #183b56;
+}
+
+.thanking-customers-section-descript {
+    color: #5a7184;
+    font-size: 21px;
+}
+
+.thanking-customers-section-image {
+    width: 270px;
+}
+
+.thanking-customers-section-modal-heading {
+    color: #d0b200;
+    font-weight: 700;
+}
+
+.follow-us-section {
+    background-color: white;
+    font-family: 'roboto';
+}
+
+.follow-us-section-heading {
+    color: #183b56;
+    font-size: 33px;
+    font-weight: 700;
+}
+
+.follow-us-section-icons {
+    color: #d0b2001a;
+    background-color: #faf7e8;
+    padding: 30px;
+    width: 100px;
+    padding-right: 30px;
+    border-radius: 70px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.footer-section {
+    font-family: 'roboto';
+    background-color: #0d2436;
+}
+
+
+.footer-section-heading {
+    color: #959ead;
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.footer-section-descript {
+    color: #959ead;
+    font-size: 18px;
+}
